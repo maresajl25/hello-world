@@ -1,6 +1,6 @@
 # hello-world
-My name is Maresa. I am a working professional trying to learn new skills so I can pursue a new path.
+I am learning how to make changes locally and push to git
 
-I have a minion, his name is bubba. Well, Kai, really.
+The command line is very confusing to me!
 
-I also have a partner. His name is bunny. Real name undisclosed for his own sanity. 
+Let's see if this works
